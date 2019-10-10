@@ -13,5 +13,5 @@ Linked list implemented above perform below operations:
 8) DeleteEnd()	:	Delete the element from the end.
 9) FindMiddle():	Find the middle element of the lists.
 10)SortLists():	Sort the given lists.
-11)Reverse : Reverses the list.
-12)PrintReverse : Print the data of list in reverse order.
+11)Reverse() : Reverses the list.
+12)PrintReverse() : Print the data of list in reverse order.
